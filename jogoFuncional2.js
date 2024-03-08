@@ -9,3 +9,5 @@ Cenario.start(
     document.querySelector('#lutador1'),
     document.querySelector('#lutador2')
 )
+
+
