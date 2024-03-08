@@ -1,0 +1,27 @@
+
+.luta{
+    display: flex;
+    gap: 20px;
+}
+
+#lutador1, #lutador2{
+    flex: 1;
+}
+
+.areaBarra{
+    height: 10px;
+    border: 1px solid rgb(56, 56, 56);
+    border-radius: 10px;
+}
+
+.areaBarra .barra{
+    height: inherit;
+    background-color: rgb(219, 0, 0);
+    border-radius: 10px;
+}
+
+.log{
+    border: 1px solid rgb(0, 72, 180);
+    height: 200px;
+    overflow-y: scroll ;
+}
